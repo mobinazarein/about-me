@@ -11,6 +11,7 @@ module.exports = defineConfig({
   },
 
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/about-me/'
+    ? '/about-me  /'
     : '/'
+        
 });
