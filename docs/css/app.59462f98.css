@@ -1,1 +1,53 @@
-body{background-color:#131212;font-family:Roboto,sans-serif!important}.fade-enter-active,.fade-leave-active{transition:opacity .3s}.fade-enter,.fade-leave-to{opacity:0}.main{height:400px!important;background-image:url(/about-me/img/back2.f950e28d.jpg);background-size:cover;background-repeat:no-repeat;background-position:50%;position:relative;overflow:hidden}.cover{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.8)}.v-tab.v-tab.v-btn{color:#623091}.name{letter-spacing:2px}@media (max-width:768px){.main{height:350px!important}.front{font-size:2em!important;margin-top:2px!important}}
+body {
+    background-color: #131212;
+    font-family: Roboto, sans-serif !important
+}
+
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity .3s
+}
+
+.fade-enter,
+.fade-leave-to {
+    opacity: 0
+}
+
+.main {
+    height: 400px !important;
+    background-image: url(../../public/back2.jpg);
+        /* background-image: url(img/back2.f950e28d.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    position: relative;
+    overflow: hidden
+}
+
+.cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .8)
+}
+
+.v-tab.v-tab.v-btn {
+    color: #623091
+}
+
+.name {
+    letter-spacing: 2px
+}
+
+@media (max-width:768px) {
+    .main {
+        height: 350px !important
+    }
+
+    .front {
+        font-size: 2em !important;
+        margin-top: 2px !important
+    }
+}
