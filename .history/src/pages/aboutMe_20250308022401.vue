@@ -76,8 +76,7 @@
           </a>
         </div>
       </v-col>
-      <img src="/bg.png" width="800" style="position: absolute;right: -150px;" />
-      <img src="/circle.png" width="1500" style="position: absolute;right: -380px;bottom: 100px;" />
+      <!-- <img src="/bg.png" width="800" style="position: absolute;right: -150px;" /> -->
     </v-col>
   </v-row>
   <div class="mt-10">
@@ -91,12 +90,8 @@
         </v-row>
         <v-row no-gutters justify="center" class="mt-5">
           <v-col cols="12" md="6">
-            <v-card class="pa-5" rounded="xl">
-              <v-text-field label="name" variant="outlined" rounded="lg"></v-text-field>
-              <v-text-field label="email" variant="outlined" rounded="lg"></v-text-field>
-              <v-textarea label="message" variant="outlined" rounded="lg"></v-textarea>
-              <v-btn style="float: right;background-color: #FDC435; ">send</v-btn>
-            </v-card>
+            <v-text-field label="name" variant="outlined" rounded="lg"></v-text-field>
+            <v-text-field label="" variant="outlined" rounded="lg"></v-text-field>
           </v-col>
         </v-row>
       </v-col>

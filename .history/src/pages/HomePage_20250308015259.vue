@@ -15,8 +15,7 @@
                     you're here!</p>
                 <div style="clear: both;"></div>
                 <div style="text-align: left;" class="mt-5 ">
-                    <a href="https://drive.google.com/file/d/1floVl60UBvFZk12p-dPAjMlAtBXm2D3K/view?usp=drive_link"
-                        target="_blank">
+                    <a href="file:///C:/Users/DSY/Desktop/resume.pdf" target="_blank">
                         <v-btn class="mr-3"
                             style="color: black;background-color: #FDC435;border-radius: 8px;">Resume</v-btn>
                     </a>

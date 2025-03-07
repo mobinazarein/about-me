@@ -76,27 +76,15 @@
           </a>
         </div>
       </v-col>
-      <img src="/bg.png" width="800" style="position: absolute;right: -150px;" />
-      <img src="/circle.png" width="1500" style="position: absolute;right: -380px;bottom: 100px;" />
+      <!-- <img src="/bg.png" width="800" style="position: absolute;right: -150px;" /> -->
     </v-col>
   </v-row>
-  <div class="mt-10">
+  <div>
     <v-row no-gutters justify="center">
       <v-col cols="6" md="6">
         <v-row no-gutters justify="center">
           <v-col cols="12" md="6">
-            <h1 class="text-center mb-2">Contact me</h1>
-            <div style="border: 1px solid #FDC435; width: 20%;margin-left: auto;margin-right: auto;;"></div>
-          </v-col>
-        </v-row>
-        <v-row no-gutters justify="center" class="mt-5">
-          <v-col cols="12" md="6">
-            <v-card class="pa-5" rounded="xl">
-              <v-text-field label="name" variant="outlined" rounded="lg"></v-text-field>
-              <v-text-field label="email" variant="outlined" rounded="lg"></v-text-field>
-              <v-textarea label="message" variant="outlined" rounded="lg"></v-textarea>
-              <v-btn style="float: right;background-color: #FDC435; ">send</v-btn>
-            </v-card>
+            <h1 class="text-center mb-2">contact me</h1>
           </v-col>
         </v-row>
       </v-col>

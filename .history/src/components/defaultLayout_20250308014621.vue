@@ -6,11 +6,11 @@
           <!-- <v-tabs v-model="tab" align-tabs="center" color="black" class=" "> -->
           <v-btn class="mr-2" variant="text" style="font-size: 10px;color: black;font-weight: bold;"
             to="/home">home</v-btn>
-          <!-- <v-btn class="mr-2" variant="text" style="font-size: 10px;color: black;font-weight: bold;"
-            to="/contact-me">contact
-            me</v-btn> -->
           <v-btn class="mr-2" variant="text" style="font-size: 10px;color: black;font-weight: bold;"
-            to="/about">about/Contacts</v-btn>
+            to="/contact-me">contact
+            me</v-btn>
+          <v-btn class="mr-2" variant="text" style="font-size: 10px;color: black;font-weight: bold;" to="/about">about
+            me</v-btn>
         </v-col>
         <v-col cols="6" md="6" class="text-left">
           <p>some thing</p>
@@ -53,10 +53,6 @@ export default {
 </script>
 
 <style>
-a {
-  color: black !important;
-}
-
 body {
   /* background-color: #faf1fc; */
   background-color: #f5f6f8 !important;

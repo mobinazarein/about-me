@@ -76,8 +76,7 @@
           </a>
         </div>
       </v-col>
-      <img src="/bg.png" width="800" style="position: absolute;right: -150px;" />
-      <img src="/circle.png" width="1500" style="position: absolute;right: -380px;bottom: 100px;" />
+      <img src="/circle.png" width="1000" style="position: absolute;right: -150px;bottom: 300px;" />
     </v-col>
   </v-row>
   <div class="mt-10">

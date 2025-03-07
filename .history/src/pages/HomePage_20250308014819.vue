@@ -15,12 +15,9 @@
                     you're here!</p>
                 <div style="clear: both;"></div>
                 <div style="text-align: left;" class="mt-5 ">
-                    <a href="https://drive.google.com/file/d/1floVl60UBvFZk12p-dPAjMlAtBXm2D3K/view?usp=drive_link"
-                        target="_blank">
-                        <v-btn class="mr-3"
-                            style="color: black;background-color: #FDC435;border-radius: 8px;">Resume</v-btn>
-                    </a>
-                    <a href="https://www.linkedin.com/in/mobina-zarein-376324331" target="_blank">
+                    <v-btn class="mr-3"
+                        style="color: black;background-color: #FDC435;border-radius: 8px;">Resume</v-btn>
+                    <a href="https://www.linkedin.com/in/YourLinkedInUsername" target="_blank">
                         <v-btn class="mr-3"
                             style="color: black;border: 1px solid black;border-radius: 8px;">LinkedIn</v-btn>
                     </a>

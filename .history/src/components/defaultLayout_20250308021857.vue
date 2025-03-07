@@ -6,9 +6,9 @@
           <!-- <v-tabs v-model="tab" align-tabs="center" color="black" class=" "> -->
           <v-btn class="mr-2" variant="text" style="font-size: 10px;color: black;font-weight: bold;"
             to="/home">home</v-btn>
-          <!-- <v-btn class="mr-2" variant="text" style="font-size: 10px;color: black;font-weight: bold;"
+          <v-btn class="mr-2" variant="text" style="font-size: 10px;color: black;font-weight: bold;"
             to="/contact-me">contact
-            me</v-btn> -->
+            me</v-btn>
           <v-btn class="mr-2" variant="text" style="font-size: 10px;color: black;font-weight: bold;"
             to="/about">about/Contacts</v-btn>
         </v-col>
